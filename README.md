@@ -2,5 +2,6 @@
 
 ### Hey 👋, I'm William Kou
 
-- 🌱 I’m currently learning JavaScript
-
+- 🌱 I'm currently learning JavaScript and data structure
+- 😜 I'm a front-end developer 
+- ✍️ I'm constantly improving myself

@@ -5,3 +5,4 @@
 - 😜 I'm a front-end developer 
 - ✍️ I'm constantly improving myself
 - 🧡 As the saying goes, stupid birds fly first
+- 🤺 The wind will cease

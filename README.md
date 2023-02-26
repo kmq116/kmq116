@@ -1,9 +1,6 @@
 - Hey 👋 , I'm Minqi Kou
 
 - 😜 I'm a front-end developer
--  Currently learning Typescript and `React` 
--  I'm interested in front-end compilation principles  
--  I will continue to improve the level of basic computer knowledge
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=kmq116&theme=tokyonight&show_icons=true" /> -->
 
 

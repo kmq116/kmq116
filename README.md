@@ -1,6 +1,7 @@
 - Hey 👋 , I'm Minqi Kou
 
-- I'm a front-end developer
+- I'm a front-end developer  
+- I will continue to improve the level of basic computer knowledge
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api?username=kmq116&theme=tokyonight&show_icons=true" /> -->
 
 
